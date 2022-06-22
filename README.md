@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### ohsojung☺️
 **living in Seoul, South Korea**
 <br/>
-I'm a junior student majoring Computer Software💻 in Hanyang university!
+I'm a junior student majoring Computer Software💻 in Hanyang university
 
 <img src="https://img.shields.io/badge/email-sojung3514@gmail.com-important/"> [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sojang2000)](https://solved.ac/sojang2000)
 
