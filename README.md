@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sojungoh/sojungoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ohsojung☺️
+**living in Seoul, South Korea**
+<br/>
+I'm a junior student majoring Computer Software💻 in Hanyang university!
+
+<img src="https://img.shields.io/badge/email-sojung3514@gmail.com-important/">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojungoh)](https://github.com/anuraghazra/github-readme-stats)
