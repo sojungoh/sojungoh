@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ohsojung☺️
+### oh sojung☺️
 **living in Seoul, South Korea**
 <br/>
 I'm a junior student majoring Computer Software💻 in Hanyang university
