@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <br/>
 I'm a junior student majoring Computer Software💻 in Hanyang university!
 
-<img src="https://img.shields.io/badge/email-sojung3514@gmail.com-important/">
+<img src="https://img.shields.io/badge/email-sojung3514@gmail.com-important/"> [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sojang2000)](https://solved.ac/sojang2000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojungoh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojungoh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojungoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
